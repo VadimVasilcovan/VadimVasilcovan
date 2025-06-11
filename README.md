@@ -1,5 +1,5 @@
 ### Hi, I'm Vadim👋
-🧑🏼‍💻Full Stack developer Java & Spring | TypeScript & React 
+🧑🏼‍💻Full Stack developer Java & Spring && TypeScript & React 
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
